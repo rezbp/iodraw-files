@@ -94,49 +94,49 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-49" value="角色权限&amp;nbsp; 当广告活动对应2个运营人员(过滤已存档/暂管款)以上，运营人员不可操作" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-35">
           <mxGeometry x="118" y="429" width="216.5" height="83.5" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-50" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-65" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="448" y="87" width="362" height="635" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-51" value="&lt;div&gt;店铺权限包&lt;/div&gt;@SwpRowAuthority(packageCode =&quot;mks_store_user_package&quot;)" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-66" value="&lt;div&gt;店铺权限包&lt;/div&gt;@SwpRowAuthority(packageCode =&quot;mks_store_user_package&quot;)" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="120" y="80" width="229" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-50" source="FF8TS8M2N0Uk2qSvp3jM-53" target="FF8TS8M2N0Uk2qSvp3jM-51">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-65" source="FF8TS8M2N0Uk2qSvp3jM-68" target="FF8TS8M2N0Uk2qSvp3jM-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-53" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-68" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="9" y="80" width="87" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-54" value="店长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-69" value="店长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="38" y="23" width="42" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-50" source="FF8TS8M2N0Uk2qSvp3jM-57" target="FF8TS8M2N0Uk2qSvp3jM-58">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-65" source="FF8TS8M2N0Uk2qSvp3jM-72" target="FF8TS8M2N0Uk2qSvp3jM-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-50" source="FF8TS8M2N0Uk2qSvp3jM-57" target="FF8TS8M2N0Uk2qSvp3jM-63">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-65" source="FF8TS8M2N0Uk2qSvp3jM-72" target="FF8TS8M2N0Uk2qSvp3jM-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-57" value="&lt;div&gt;查询&lt;/div&gt;Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-72" value="&lt;div&gt;查询&lt;/div&gt;Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="13.5" y="200" width="74.5" height="80.25" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-58" value="&lt;div&gt;店铺权限&amp;nbsp; &amp;nbsp;@SwpRowPermission&lt;/div&gt;&lt;div&gt;amzomp_storeUuid_storeName_row&lt;br&gt;amzomp_storeUuid_storeName_dict&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-73" value="&lt;div&gt;店铺权限&amp;nbsp; &amp;nbsp;@SwpRowPermission&lt;/div&gt;&lt;div&gt;amzomp_storeUuid_storeName_row&lt;br&gt;amzomp_storeUuid_storeName_dict&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="123" y="169" width="223" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.007;exitY=0.611;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-50" source="FF8TS8M2N0Uk2qSvp3jM-61" target="FF8TS8M2N0Uk2qSvp3jM-62">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.007;exitY=0.611;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-65" source="FF8TS8M2N0Uk2qSvp3jM-76" target="FF8TS8M2N0Uk2qSvp3jM-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-50" source="FF8TS8M2N0Uk2qSvp3jM-61" target="FF8TS8M2N0Uk2qSvp3jM-64">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-65" source="FF8TS8M2N0Uk2qSvp3jM-76" target="FF8TS8M2N0Uk2qSvp3jM-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-61" value="操作 Command" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-76" value="操作 Command" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="11" y="365" width="78" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-62" value="&lt;div&gt;店铺权限&amp;nbsp; &amp;nbsp;@SwpRowPermission&lt;/div&gt;&lt;div&gt;amzomp_storeUuid_storeName_row&lt;br&gt;amzomp_storeUuid_storeName_dict&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-77" value="&lt;div&gt;店铺权限&amp;nbsp; &amp;nbsp;@SwpRowPermission&lt;/div&gt;&lt;div&gt;amzomp_storeUuid_storeName_row&lt;br&gt;amzomp_storeUuid_storeName_dict&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="118" y="338" width="223" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-63" value="角色权限&amp;nbsp; 无" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-78" value="角色权限&amp;nbsp; 无" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="124.75" y="256.5" width="219.5" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-64" value="角色权限&amp;nbsp; 当广告活动对应2个运营人员(过滤已存档/暂管款)以上，运营人员不可操作" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-50">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-79" value="角色权限&amp;nbsp; 当广告活动对应2个运营人员(过滤已存档/暂管款)以上，运营人员不可操作" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="118" y="429" width="216.5" height="83.5" as="geometry" />
         </mxCell>
       </root>
