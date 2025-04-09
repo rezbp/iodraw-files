@@ -95,7 +95,7 @@
           <mxGeometry x="118" y="429" width="216.5" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-65" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="448" y="87" width="362" height="635" as="geometry" />
+          <mxGeometry x="818" y="77" width="362" height="635" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-66" value="&lt;div&gt;店铺权限包&lt;/div&gt;@SwpRowAuthority(packageCode =&quot;mks_store_user_package&quot;)" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="120" y="80" width="229" height="70" as="geometry" />
@@ -106,8 +106,8 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-68" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
           <mxGeometry x="9" y="80" width="87" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-69" value="店长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
-          <mxGeometry x="38" y="23" width="42" height="26" as="geometry" />
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-69" value="业务组长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-65">
+          <mxGeometry x="26" y="23" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-65" source="FF8TS8M2N0Uk2qSvp3jM-72" target="FF8TS8M2N0Uk2qSvp3jM-73">
           <mxGeometry relative="1" as="geometry" />
