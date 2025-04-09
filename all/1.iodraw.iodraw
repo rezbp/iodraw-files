@@ -4,13 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-1" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="240" height="630" as="geometry" />
-        </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-2" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="80" width="240" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-6" value="amzomp_store_user_package" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-6" value="mks_store_user_package" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="120" y="80" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-7" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
@@ -45,12 +42,6 @@
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="13" y="375.5" width="87" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-3" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="80" width="240" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-4" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="80" width="240" height="630" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-5" value="运营经理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="94" width="66" height="26" as="geometry" />
