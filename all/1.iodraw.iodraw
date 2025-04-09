@@ -45,8 +45,8 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-27" value="角色权限&amp;nbsp; 无" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="124.75" y="256.5" width="219.5" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-30" value="角色权限&amp;nbsp; 无" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190.75" y="344.5" width="219.5" height="72.5" as="geometry" />
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-30" value="角色权限&amp;nbsp; 用户角色为运营且" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
+          <mxGeometry x="109" y="437" width="219.5" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
