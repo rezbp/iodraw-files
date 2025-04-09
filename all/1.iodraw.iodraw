@@ -73,7 +73,7 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-42" value="&lt;div&gt;查询&lt;/div&gt;Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-35">
           <mxGeometry x="13.5" y="200" width="74.5" height="80.25" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-43" value="&lt;div&gt;店铺权限&amp;nbsp; &amp;nbsp;@SwpRowPermission&lt;/div&gt;&lt;div&gt;amzomp_storeUuid_storeName_row&lt;br&gt;amzomp_storeUuid_storeName_dict&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-35">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-43" value="&lt;div&gt;店铺权限&amp;nbsp; &amp;nbsp;@SwpRowPermission&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;mks&lt;/span&gt;_storeUuid_storeName_row&lt;br&gt;mks_storeUuid_storeName_dict&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-35">
           <mxGeometry x="123" y="169" width="223" height="85.5" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.007;exitY=0.611;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-35" source="FF8TS8M2N0Uk2qSvp3jM-46" target="FF8TS8M2N0Uk2qSvp3jM-47">
