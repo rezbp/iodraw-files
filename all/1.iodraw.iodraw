@@ -140,7 +140,7 @@
           <mxGeometry x="118" y="429" width="216.5" height="83.5" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-110" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1205" y="74" width="362" height="635" as="geometry" />
+          <mxGeometry x="1205" y="81" width="362" height="635" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-111" value="&lt;div&gt;店铺权限包&lt;/div&gt;@SwpRowAuthority(packageCode =&quot;mks_store_user_package&quot;)" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-110">
           <mxGeometry x="120" y="80" width="229" height="70" as="geometry" />
@@ -178,7 +178,7 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-122" value="&lt;div&gt;店铺权限&amp;nbsp; &amp;nbsp;@SwpRowPermission&lt;/div&gt;&lt;div&gt;amzomp_storeUuid_storeName_row&lt;br&gt;amzomp_storeUuid_storeName_dict&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-110">
           <mxGeometry x="118" y="338" width="223" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-123" value="角色权限&amp;nbsp; 无" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-110">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-123" value="角色权限 @SwpRowUlpRolePermission" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-110">
           <mxGeometry x="124.75" y="256.5" width="219.5" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-124" value="角色权限&amp;nbsp; 当广告活动对应2个运营人员(过滤已存档/暂管款)以上，运营人员不可操作" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-110">
