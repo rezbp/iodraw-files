@@ -13,6 +13,9 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-6" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="120" y="80" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-7" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
+          <mxGeometry x="120" y="179" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-3" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="80" width="240" height="630" as="geometry" />
         </mxCell>
@@ -21,6 +24,9 @@
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-5" value="运营经理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="94" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="165" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
