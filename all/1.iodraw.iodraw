@@ -22,6 +22,9 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="9" y="80" width="87" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
+          <mxGeometry x="11" y="177.5" width="87" height="63" as="geometry" />
+        </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-3" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="80" width="240" height="630" as="geometry" />
         </mxCell>
@@ -30,9 +33,6 @@
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-5" value="运营经理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="94" width="66" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="129" y="170" width="87" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
