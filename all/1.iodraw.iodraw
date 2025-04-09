@@ -13,9 +13,6 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-2" source="FF8TS8M2N0Uk2qSvp3jM-8" target="FF8TS8M2N0Uk2qSvp3jM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-2" source="FF8TS8M2N0Uk2qSvp3jM-8" target="FF8TS8M2N0Uk2qSvp3jM-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-8" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="9" y="80" width="87" height="63" as="geometry" />
         </mxCell>
@@ -31,7 +28,7 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-22" value="&lt;div&gt;店铺权限&amp;nbsp; &amp;nbsp; @SwpRowPermission()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="120" y="179.5" width="223" height="85.5" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-25" value="Ops Command" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-25" value="操作 Command" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="13.5" y="300" width="78" height="80.25" as="geometry" />
         </mxCell>
       </root>
