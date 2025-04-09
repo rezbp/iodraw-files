@@ -13,14 +13,17 @@
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-2" source="FF8TS8M2N0Uk2qSvp3jM-8" target="FF8TS8M2N0Uk2qSvp3jM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FF8TS8M2N0Uk2qSvp3jM-2" source="FF8TS8M2N0Uk2qSvp3jM-8" target="FF8TS8M2N0Uk2qSvp3jM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-8" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="9" y="80" width="87" height="63" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-5" value="运营经理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="26" y="23" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-20" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="169" width="87" height="63" as="geometry" />
+        <mxCell id="FF8TS8M2N0Uk2qSvp3jM-20" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
+          <mxGeometry x="9" y="183" width="87" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
