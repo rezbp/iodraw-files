@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-2" value="" style="swimlane;startSize=0;swimlaneLine=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="59" y="79" width="362" height="635" as="geometry" />
+          <mxGeometry x="61" y="77" width="362" height="635" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-6" value="&lt;div&gt;店铺权限包&lt;/div&gt;@SwpRowAuthority(packageCode =&quot;mks_store_user_package&quot;)" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
           <mxGeometry x="120" y="80" width="229" height="70" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry x="124.75" y="256.5" width="219.5" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="FF8TS8M2N0Uk2qSvp3jM-30" value="角色权限&amp;nbsp; 当广告活动对应2个运营人员(过滤已存档/暂管款)以上，运营人员不可操作" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="FF8TS8M2N0Uk2qSvp3jM-2">
-          <mxGeometry x="112" y="426" width="216.5" height="83.5" as="geometry" />
+          <mxGeometry x="120" y="430" width="216.5" height="83.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
