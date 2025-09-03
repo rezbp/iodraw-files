@@ -13,8 +13,8 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-4" value="&lt;h1&gt;配置主数据&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="181" y="190" width="138" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-5" value="费用配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="332" width="120" height="60" as="geometry" />
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-5" value="款项性质配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="418" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
