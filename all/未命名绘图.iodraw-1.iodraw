@@ -49,7 +49,7 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-16" value="账期账单主表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="448" y="372" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="431" y="334" width="558" height="213" as="geometry" />
         </mxCell>
       </root>
