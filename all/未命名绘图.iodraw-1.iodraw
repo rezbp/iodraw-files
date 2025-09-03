@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-15" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="438" y="559" width="551" height="399" as="geometry" />
+        </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-1" value="费用项配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="322" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,9 +45,6 @@
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-14" value="实时账单事件费用Fee表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="812" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-15" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="559" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
