@@ -35,7 +35,7 @@
           <mxGeometry x="463" y="603" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-11" value="账期账单明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="707" width="120" height="60" as="geometry" />
+          <mxGeometry x="583" y="703" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-12" value="实时账单回款记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="261" width="120" height="60" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-16" value="账期账单主表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="448" y="372" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-17" value="" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="426" y="300" width="548" height="213" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
