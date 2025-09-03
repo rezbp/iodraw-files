@@ -19,6 +19,9 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-6" value="ERP类型配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="538" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-7" value="ERP类型配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="639" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
