@@ -37,10 +37,10 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-12" value="实时账单回款记录表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="722" y="595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-13" value="实时账单Event表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-13" value="实时账单事件Event表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="707" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-14" value="实时账单Fee表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-14" value="实时账单事件费用Fee表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="795" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
