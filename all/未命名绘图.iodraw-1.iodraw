@@ -41,7 +41,7 @@
           <mxGeometry x="583" y="703" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-12" value="实时账单回款记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="719" y="261" width="120" height="60" as="geometry" />
+          <mxGeometry x="724" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-13" value="实时账单事件Event" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="724" y="607" width="120" height="60" as="geometry" />
