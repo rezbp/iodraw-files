@@ -31,8 +31,8 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-10" value="账期账单主表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457" y="322" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-11" value="费用项配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="342" width="120" height="60" as="geometry" />
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-11" value="账期账单明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457" y="436" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
