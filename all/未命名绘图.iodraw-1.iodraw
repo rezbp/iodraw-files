@@ -10,8 +10,8 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-3" value="" style="line;strokeWidth=2;direction=south;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="404" y="195" width="10" height="754" as="geometry" />
         </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="218" y="230" width="40" height="26" as="geometry" />
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-4" value="&lt;h1&gt;配置主数据&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="181" y="190" width="138" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
