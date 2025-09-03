@@ -29,10 +29,10 @@
           <mxGeometry x="668" y="188" width="138" height="73" as="geometry" />
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-10" value="账期账单主表om_amz_fba_settlement_report" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="463" y="603" width="120" height="60" as="geometry" />
+          <mxGeometry x="463" y="603" width="199" height="122" as="geometry" />
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-11" value="账期账单明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="463" y="707" width="120" height="60" as="geometry" />
+          <mxGeometry x="471" y="756" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gpXSXuSdpJAqgySQeFIg-12" value="实时账单回款记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="721" y="600" width="120" height="60" as="geometry" />
