@@ -16,6 +16,9 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-5" value="款项性质配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="187" y="418" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-6" value="款项性质配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="538" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
