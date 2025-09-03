@@ -55,7 +55,7 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-18" value="V2账期账单明细" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="583" y="456" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-20" value="实时账单事件Transaction表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-20" value="实时账单交易记录Transaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="719" y="372" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
