@@ -28,8 +28,11 @@
         <mxCell id="gpXSXuSdpJAqgySQeFIg-9" value="&lt;h1&gt;亚马逊账单&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="574" y="190" width="138" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="gpXSXuSdpJAqgySQeFIg-10" value="费用项配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="332" width="120" height="60" as="geometry" />
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-10" value="账期账单主表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="457" y="322" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gpXSXuSdpJAqgySQeFIg-11" value="费用项配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="342" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
